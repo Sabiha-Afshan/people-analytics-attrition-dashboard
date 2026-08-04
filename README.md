@@ -87,22 +87,31 @@ Calculated groups were created for:
 
 Provides a central navigation hub for accessing the dashboard’s workforce, attrition, segmentation and retention analysis pages.
 
+![Dashboard Overview](images/Dashboard_Overview.png)
+
 ### 2. Workforce Profile and Demographics
 
 Provides an overview of workforce size, employee demographics, departments, job roles, education, income, experience and company tenure.
+
+![Profile and Demographics](images/Profile_and_demographics.png)
 
 ### 3. Employee Attrition Overview
 
 Summarizes overall attrition and examines exits across departments, age groups, education fields and company tenure.
 
+![Attrition Overview](images/Attrition_overview.png)
+
 ### 4. Employee Attrition Segmentation
 
 Identifies high risk employee groups through job role, gender, salary band and overtime analysis.
+
+![Attrition Segmentation](images/Attrition_segmentation.png)
 
 ### 5. Retention Drivers and Career Development
 
 Examines job level, business travel, job satisfaction, work life balance, promotion gaps, employee exposure and income related attrition.
 
+![Retention Drivers](images/Retention_drivers.png)
 
 ## Key Insights
 
