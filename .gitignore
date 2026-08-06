@@ -1,0 +1,22 @@
+# Temporary Power BI files
+~$*.pbix
+*.pbix.autosave
+*.tmp
+*.temp
+
+# Local raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Environment files
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
